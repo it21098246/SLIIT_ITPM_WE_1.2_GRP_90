@@ -93,4 +93,5 @@ function AddEvent (){
             )
         }
         export default AddEvent;
+        //this is responsible for adding events to the web application
         
