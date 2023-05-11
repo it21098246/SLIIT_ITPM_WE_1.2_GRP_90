@@ -217,3 +217,4 @@ console.log(updateEvent);
     
 }
 export default EditEvent;
+//this page is responsible for the code which can edit a particular event 
