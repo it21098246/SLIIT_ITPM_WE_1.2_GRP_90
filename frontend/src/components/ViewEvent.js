@@ -253,3 +253,4 @@ const handleSearchChange = (event) => {
 
 }
 export default ViewEvent;
+//showing the previously added events details to the viewers
